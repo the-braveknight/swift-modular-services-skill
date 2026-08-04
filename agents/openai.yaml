@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Modular Services"
+  short_description: "Design modular Swift backend services"
+  default_prompt: "Use $swift-modular-services to design a Swift backend with explicit module boundaries and deployment-ready services."
